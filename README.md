@@ -94,7 +94,7 @@ anushka,10:16:42
 
 ![sample-screenshot](https://via.placeholder.com/600x300?text=Attendance+UI+Preview)
 
-> *(Replace with your actual screenshot if available)*
+>
 
 ---
 
